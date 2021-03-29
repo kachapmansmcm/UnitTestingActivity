@@ -1,0 +1,23 @@
+{
+  "name": "UnitTestingActivity",
+  "version": "1.0.0",
+  "description": "Unit testing is the first level of application testing. As a developer, your focus should be on providing good unit testing to prevent any issues down the road. The more you progress in testing levels, the more expensive it becomes to solve application issues. Unit testing is the first line of defense to ensure an application is doing what it was designed to do.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kachapmansmcm/UnitTestingActivity.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kachapmansmcm/UnitTestingActivity/issues"
+  },
+  "homepage": "https://github.com/kachapmansmcm/UnitTestingActivity#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
